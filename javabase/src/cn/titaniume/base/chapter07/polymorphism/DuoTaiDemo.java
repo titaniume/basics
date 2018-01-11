@@ -34,7 +34,7 @@ class Dog extends Animal {
 
 class DuoTaiDemo {
 	public static void main(String[] args) {
-		//Animal a = new Animal();
+		//DuoTaiDemo a = new DuoTaiDemo();
 		//Dog d = new Dog();
 
 		//∂‡Ã¨

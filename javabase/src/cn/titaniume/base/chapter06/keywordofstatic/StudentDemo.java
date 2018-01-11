@@ -38,10 +38,10 @@ public class StudentDemo {
 		s1.show();
 
 		/*
-		Student s2 = new Student("马云",35,"20150306");
+		StudentDemo s2 = new StudentDemo("马云",35,"20150306");
 		s2.show();
 
-		Student s3 = new Student("马化腾",33,"20150306");
+		StudentDemo s3 = new StudentDemo("马化腾",33,"20150306");
 		s3.show();
 		*/
 		Student s2 = new Student("马云",35);

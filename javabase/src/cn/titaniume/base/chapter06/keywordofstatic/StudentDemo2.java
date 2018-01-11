@@ -35,7 +35,7 @@ public class StudentDemo2 {
 		s.show2();
 
 		Students.show2();
-		//Student.show();
+		//StudentDemo.show();
 
 	}
 

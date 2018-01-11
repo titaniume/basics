@@ -5,7 +5,7 @@ package cn.titaniume.base.chapter06.objpractice.empcase;
 然后给出成员变量，构造方法，getXxx()/setXxx()方法，
 以及一个显示所有成员信息的方法。并测试。
 
-Employee：
+Employees：
 	成员变量：员工编号,姓名,职位
 	构造方法：无参，带参
 	成员方法：getXxx()/setXxx()方法，show()

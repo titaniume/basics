@@ -51,7 +51,7 @@ class StudentDemo {
 		Student s = new Student();
 
 		//输出对象名
-		System.out.println(s); //Student@1afb7ac7
+		System.out.println(s); //StudentDemo@1afb7ac7
 
 		//输出成员变量
 		System.out.println("学号是："+s.sid); //null

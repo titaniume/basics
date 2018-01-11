@@ -12,7 +12,7 @@ package cn.titaniume.base.chapter05.classdefinition;
 			成员方法：学习，吃饭，睡觉
 
 	第三步：把类用英文体现
-		Student:
+		StudentDemo:
 			成员变量：sid，name，age
 			成员方法：study()，eat()，sleep()
 

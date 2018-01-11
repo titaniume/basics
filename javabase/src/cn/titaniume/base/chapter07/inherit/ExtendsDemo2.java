@@ -21,8 +21,8 @@ package cn.titaniume.base.chapter07.inherit;
 		举例：类A和类B，如果类A is a 类B或者类B is a 类A 能念通过，就可以考虑使用继承。
 		      否则不可以。
 
-		Student,Person
-		Dog,Animal
+		StudentDemo,Person
+		Dog,DuoTaiDemo
 		Dog,Pig
 */
 class Fu {

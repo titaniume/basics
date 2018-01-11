@@ -28,7 +28,7 @@ class Person {
 		s1.age = 100;
 		System.out.println(s1.age);
 
-		// s1 = new Student();
+		// s1 = new StudentDemo();
 
 		// final修饰局部变量
 		final Student s2 = new Student();
@@ -36,7 +36,7 @@ class Person {
 		s2.age = 100;
 		System.out.println(s2.age);
 
-		// s2 = new Student();
+		// s2 = new StudentDemo();
 	}
 }
 

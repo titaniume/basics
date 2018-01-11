@@ -25,23 +25,23 @@ class NoNameObject {
 	public static void main(String[] args) {
 		/*
 		//创建对象
-		Student s = new Student();
+		StudentDemo s = new StudentDemo();
 		s.love();
 		s.love();
 
 		//匿名对象
-		new Student().love();
-		new Student().love();
+		new StudentDemo().love();
+		new StudentDemo().love();
 		*/
 
 		//有名字的情况
 		//StudentDemo sd = new StudentDemo();
-		//Student s = new Student();
+		//StudentDemo s = new StudentDemo();
 		//sd.test(s);
 
 		//没有名字的情况
 		//StudentDemo sd = new StudentDemo();
-		//sd.test(new Student());
+		//sd.test(new StudentDemo());
 
 		//不妨在来一步
 		new StudentDemo().test(new Student());

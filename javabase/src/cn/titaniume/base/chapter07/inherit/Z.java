@@ -5,7 +5,7 @@ package cn.titaniume.base.chapter07.inherit;
 		A:引用类型作为成员变量
 			class Demo {
 				int x = 10; //基本类型成员变量
-				Student s = new Student(); //引用类型成员变量
+				StudentDemo s = new StudentDemo(); //引用类型成员变量
 			}
 		B:一个类的初始化过程
 			成员变量
